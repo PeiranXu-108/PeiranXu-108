@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ryan 👋
 
-<!--
-**PeiranXu-108/PeiranXu-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 CS Undergrad, Novice front-end developer.
 
-Here are some ideas to get you started:
+**Tech Stack:** React, Next.js, Node.js, TypeScript, Tailwind CSS, Kubernetes, AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PeiranXu-108&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiranXu-108&layout=compact" height="165" />
+</p>
+
+![Streak](https://streak-stats.demolab.com?user=yourname)
+
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,kubernetes,docker,python,mongodb,mysql,git)](https://skillicons.dev)
+
+## 🤝 Connect
+- Email: xupeiran2048@gmail.com | Ryan
+
