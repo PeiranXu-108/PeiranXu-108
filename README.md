@@ -1,10 +1,10 @@
 ## Hi, I'm Ryan 👋
 
-🚀 CS Undergrad, novice Front-end developer.
+🚀 CS Undergrad, Front-end developer.
 
 ☁️ Contributor to <a href="https://github.com/labring/sealos"><strong>@Sealos</strong></a> (16.2k+ ⭐) - Kubernetes-based cloud OS<br>
 ### 🛠 Tech stacks
-[![My Skills](https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,html,css,tailwind,kubernetes,docker,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,kubernetes,docker,python,mongodb,mysql)](https://skillicons.dev)
 
 ### 📊 Stats
 <div align="center">
