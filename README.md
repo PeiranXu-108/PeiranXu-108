@@ -2,9 +2,13 @@
 
 🚀 CS Undergrad, Front-end developer.
 
-☁️ Contributor to <a href="https://github.com/labring/sealos"><strong>@Sealos</strong></a> (16.2k+ ⭐) - Kubernetes-based cloud OS<br>
+☁️ Contributor to <a href="https://github.com/labring/sealos"><strong>@Sealos</strong></a> (16.3k+ ⭐) - Kubernetes-based cloud OS<br>
 ### 🛠 Tech stacks
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,kubernetes,docker,python,mongodb,mysql)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,docker,kubernetes,linux,html,css,latex,md,python,mysql,mongodb,git&perline=8&theme=dark" />
+  </a>
+<p align="center">
 
 ### 📊 Stats
 <div align="center">
