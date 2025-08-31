@@ -6,9 +6,11 @@
 ### 🛠 Tech stacks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,docker,kubernetes,linux,html,css,latex,md,python,mysql,mongodb,git&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,vite,kubernetes,linux,latex,md,python,mysql,mongodb,git,docker&perline=9&theme=light" />
   </a>
 <p align="center">
+
+> React, React Native, Next.js, Node.js, TypeScript, Tailwind CSS, Kubernetes
 
 ### 📊 Stats
 <div align="center">
