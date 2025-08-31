@@ -6,7 +6,7 @@
 ### 🛠 Tech stacks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,vite,kubernetes,linux,latex,md,python,mysql,mongodb,git,docker&perline=9&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,vite,kubernetes,linux,latex,md,python,mysql,mongodb,git,docker&perline=9&theme=dark" />
   </a>
 <p align="center">
 
