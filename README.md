@@ -12,11 +12,11 @@
 
 > React, React Native, Next.js, Node.js, TypeScript, Tailwind CSS, Kubernetes
 
-<!-- <br> -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeiranXu-108&show_icons=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiranXu-108&layout=compact" height="165" />
-</div> -->
+<br>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PeiranXu-108&show_icons=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PeiranXu-108&layout=compact" height="165" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PeiranXu-108/PeiranXu-108/output/github-snake-dark.svg" />
