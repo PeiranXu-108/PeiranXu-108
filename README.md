@@ -6,11 +6,11 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,vite,kubernetes,linux,latex,md,python,mysql,mongodb,git,docker&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue, nextjs,nodejs,html,css,tailwind,vite,kubernetes,linux,latex,python,mysql,mongodb,git,docker&perline=9&theme=dark" />
   </a>
 <p align="center">
 
-> React, React Native, Next.js, Node.js, TypeScript, Tailwind CSS, Kubernetes
+> React, Vue.js, Next.js, Node.js, TypeScript, Tailwind CSS, Kubernetes
 
 <br>
 <div align="center">
@@ -21,7 +21,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PeiranXu-108/PeiranXu-108/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PeiranXu-108/PeiranXu-108/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PeiranXu-108/PeiranXu-108/output/github-snake.svg" />
+  <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/PeiranXu-108/PeiranXu-108/output/github-snake.svg" /> -->
 </picture>
 
 <br>
