@@ -1,8 +1,8 @@
 ## Hi, I'm Ryan 👋
 
-🚀 CS Undergrad, Front-end developer.
+🚀 CS Undergrad, Full-stack developer.
 
-☁️ Contributor to <a href="https://github.com/labring/sealos"><strong>@Sealos</strong></a> (16.5k+ ⭐) - Kubernetes-based cloud OS<br>
+☁️ Contributor to <a href="https://github.com/labring/sealos"><strong>@Sealos</strong></a> (16.6k+ ⭐) - Kubernetes-based cloud OS<br>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,7 +10,7 @@
   </a>
 <p align="center">
 
-> React, Vue.js, Next.js, Node.js, TypeScript, Tailwind CSS, Kubernetes
+> React, Vue, Next.js, Node.js, TypeScript, Tailwind CSS, Kubernetes
 
 <br>
 <div align="center">
