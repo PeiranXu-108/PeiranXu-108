@@ -1,8 +1,8 @@
 ## Hi, I'm Ryan 👋
 
-🚀 CS Undergrad, Full-stack developer.
+🚀 Incoming software engineering grad@CMU, Full-stack developer.
 
-☁️ Contributor to <a href="https://github.com/labring/sealos"><strong>@Sealos</strong></a> (16.6k+ ⭐) - Kubernetes-based cloud OS<br>
+☁️ Contributor to <a href="https://github.com/labring/sealos"><strong>@Sealos</strong></a> (17k+ ⭐) - Kubernetes-based cloud OS<br>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
