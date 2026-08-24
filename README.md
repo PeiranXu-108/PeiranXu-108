@@ -14,8 +14,8 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PeiranXu-108&show_icons=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PeiranXu-108&layout=compact" height="165" />
+  <img src="./profile/stats.svg" height="165" alt="Ryan's GitHub stats" />
+  <img src="./profile/top-langs.svg" height="165" alt="Ryan's top languages" />
 </div>
 
 <picture>
@@ -31,4 +31,3 @@
 <a href="mailto:xupeiran2048@gmail.com"><img src="https://img.shields.io/badge/Gmail-xupeiran2048@gmail.com-green?logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=PeiranXu-108&abbreviated=true&color=yellow" />
 </p>
-
